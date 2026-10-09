@@ -241,13 +241,13 @@ p {
   margin: 4px 0;
 }
 
-#OrganizationalExperience > ul {
+#Organizational > ul {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-#OrganizationalExperience > ul > li {
+#Organizational > ul > li {
   display: flex;
   align-items: flex-start;
   gap: var(--space-m);
@@ -257,11 +257,11 @@ p {
   border-radius: var(--radius);
 }
 
-#OrganizationalExperience > ul > li:last-child {
+#Organizational > ul > li:last-child {
   margin-bottom: 0;
 }
 
-#OrganizationalExperience > ul > li > img {
+#Organizational > ul > li > img {
   width: 60px;
   height: 60px;
   object-fit: contain;
@@ -272,15 +272,15 @@ p {
   flex-shrink: 0;
 }
 
-#OrganizationalExperience > ul > li > div {
+#Organizational > ul > li > div {
   flex: 1;
 }
 
-#OrganizationalExperience h3 {
+#Organizational h3 {
   margin: 0;
 }
 
-#OrganizationalExperience p {
+#Organizational p {
   color: var(--muted);
   margin: 4px 0;
 }
